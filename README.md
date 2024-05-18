@@ -7,8 +7,8 @@
   -CS 119 Python Programming
 - 💞️ I’m looking to collaborate on Cybersecurity projects.
 - 📫 How to reach me ...
-- 😄 Cybersecurity Toolkit:
-  These are a collection of my personal and open-source/publicly available resources/tools I use for managing US Government Cybersecurity process (including FedRAMP RMF, NIST RMF, DoD RMF, and IC RMF), Building ATO Packages, Implementing Security Controls, Assessing Security Controls, Hardening/STIG'ing Environments etc.
+- Cybersecurity Toolkit:
+  These are a collection of open-source/publicly available resources/tools I use for managing US Government Cybersecurity process (including FedRAMP RMF, NIST RMF, DoD RMF, and IC RMF), Building ATO Packages, Implementing Security Controls, Assessing Security Controls, Hardening/STIG'ing Environments etc.
 
 <!---
 domain333/domain333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
